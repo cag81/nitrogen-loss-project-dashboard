@@ -1,4 +1,4 @@
-nnotated-types==0.7.0
+annotated-types==0.7.0
 blinker==1.8.2
 blis==1.0.1
 catalogue==2.0.10
