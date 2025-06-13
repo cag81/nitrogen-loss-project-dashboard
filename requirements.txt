@@ -1,4 +1,4 @@
-annotated-types==0.7.0
+nnotated-types==0.7.0
 blinker==1.8.2
 blis==1.0.1
 catalogue==2.0.10
@@ -25,6 +25,7 @@ fitz==0.0.1.dev2
 Flask==3.0.3
 fonttools==4.54.1
 httplib2==0.22.0
+gunicorn
 idna==3.10
 importlib_metadata==8.5.0
 isodate==0.6.1
@@ -95,4 +96,3 @@ Werkzeug==3.0.4
 wordcloud==1.9.3
 wrapt==1.16.0
 zipp==3.20.2
-gunicorn
